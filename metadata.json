@@ -1,0 +1,6 @@
+{
+  "name": "Moda",
+  "description": "Multi-store B2B intelligence and retail automation workspace.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
